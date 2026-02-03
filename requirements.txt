@@ -1,0 +1,5 @@
+python-dotenv==1.0.1
+opencv-python==4.11.0.86
+numpy==2.1.1
+ultralytics==8.3.73
+scenedetect==0.6.5.2
