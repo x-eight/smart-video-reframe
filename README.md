@@ -15,8 +15,8 @@ A powerful CLI tool to automatically reframe videos for mobile (9:16) using AI-d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/x-eight/autoreframe.git
-   cd autoreframe
+   git clone https://github.com/x-eight/smart-video-reframe.git
+   cd smart-video-reframe
    ```
 
 2. Install dependencies:
